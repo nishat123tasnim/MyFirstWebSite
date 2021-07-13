@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: green;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:'Dancing Script', cursive; font-size;
+  font-size:150%;
+}
+
+li a:hover {
+  background-color: #999;
+}
+
+div.FirstClass{
+	
+	 width: 150%;
+	 height:250%
+
+}
+
+.FristClass .SecondClass{
+	
+	float:right;
+}
